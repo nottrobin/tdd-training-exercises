@@ -1,0 +1,14 @@
+<phpunit
+    colors="true"
+    bootstrap="bootstrap.php">
+	<testsuites>
+		<testsuite name="Application suite">
+			<directory>./application</directory>
+		</testsuite>
+	</testsuites>
+	<groups>
+		<include>
+			<group>shipTests</group>
+		</include>
+	</groups>
+</phpunit>

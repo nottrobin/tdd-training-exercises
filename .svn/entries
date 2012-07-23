@@ -1,0 +1,92 @@
+10
+
+dir
+132953
+svn://subversion/symfony/ibuildings-training
+svn://subversion/symfony
+
+
+
+2012-02-16T16:32:18.198510Z
+119956
+rwmorris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20cea73e-780e-0410-835f-a94bd723511b
+
+Factories
+dir
+
+Lesson-10
+dir
+
+Visitors
+dir
+
+tests
+dir
+
+Lesson-4
+dir
+
+Decorators
+dir
+
+Lesson-5
+dir
+
+Lesson-6
+dir
+
+Lesson-7
+dir
+
+Lesson-9
+dir
+
+Human.php
+file
+
+
+
+
+2012-07-23T11:53:34.427203Z
+3c29ee3e5b48513810f52e69bf37c0af
+2012-02-16T16:14:50.008870Z
+119949
+rwmorris
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+251
+
